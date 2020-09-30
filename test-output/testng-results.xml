@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53607" started-at="2020-09-07T11:01:37Z" finished-at="2020-09-07T11:02:31Z">
+    <groups>
+      <group name="Regression">
+        <method signature="OnlineMasterTest.OnlineTestMaster_getMaster()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getMaster" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getCommunicationMaster()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getCommunicationMaster" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getStage()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getStage" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getRecipent()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getRecipent" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getNotificationType()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getNotificationType" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getSave()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getSave" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getedit()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getedit" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getupdateTemplate()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getupdateTemplate" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getUpdate()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getUpdate" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getDelete()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getDelete" class="com.ats.qa.testcases.OnlineMasterTest"/>
+        <method signature="OnlineMasterTest.OnlineTestMaster_getHomePage()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getHomePage" class="com.ats.qa.testcases.OnlineMasterTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Default test" duration-ms="53607" started-at="2020-09-07T11:01:37Z" finished-at="2020-09-07T11:02:31Z">
+      <class name="com.ats.qa.testcases.OnlineMasterTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="setup" is-config="true" duration-ms="13684" started-at="2020-09-07T16:31:37Z" finished-at="2020-09-07T16:31:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="OnlineTestMaster_getMaster()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getMaster" duration-ms="8360" started-at="2020-09-07T16:31:51Z" finished-at="2020-09-07T16:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getMaster -->
+        <test-method status="PASS" signature="OnlineTestMaster_getCommunicationMaster()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getCommunicationMaster" duration-ms="699" started-at="2020-09-07T16:31:59Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getMaster" finished-at="2020-09-07T16:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getCommunicationMaster -->
+        <test-method status="PASS" signature="OnlineTestMaster_getStage()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getStage" duration-ms="2163" started-at="2020-09-07T16:32:00Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getCommunicationMaster" finished-at="2020-09-07T16:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getStage -->
+        <test-method status="PASS" signature="OnlineTestMaster_getRecipent()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getRecipent" duration-ms="2126" started-at="2020-09-07T16:32:02Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getStage" finished-at="2020-09-07T16:32:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getRecipent -->
+        <test-method status="PASS" signature="OnlineTestMaster_getNotificationType()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getNotificationType" duration-ms="2025" started-at="2020-09-07T16:32:04Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getRecipent" finished-at="2020-09-07T16:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getNotificationType -->
+        <test-method status="PASS" signature="OnlineTestMaster_getSave()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getSave" duration-ms="4134" started-at="2020-09-07T16:32:06Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getNotificationType" finished-at="2020-09-07T16:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getSave -->
+        <test-method status="PASS" signature="OnlineTestMaster_getedit()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getedit" duration-ms="4089" started-at="2020-09-07T16:32:10Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getSave" finished-at="2020-09-07T16:32:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getedit -->
+        <test-method status="PASS" signature="OnlineTestMaster_getupdateTemplate()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getupdateTemplate" duration-ms="2176" started-at="2020-09-07T16:32:14Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getedit" finished-at="2020-09-07T16:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getupdateTemplate -->
+        <test-method status="PASS" signature="OnlineTestMaster_getUpdate()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getUpdate" duration-ms="4100" started-at="2020-09-07T16:32:17Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getupdateTemplate" finished-at="2020-09-07T16:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getUpdate -->
+        <test-method status="PASS" signature="OnlineTestMaster_getDelete()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getDelete" duration-ms="4121" started-at="2020-09-07T16:32:21Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getUpdate" finished-at="2020-09-07T16:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getDelete -->
+        <test-method status="PASS" signature="OnlineTestMaster_getHomePage()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="OnlineTestMaster_getHomePage" duration-ms="4858" started-at="2020-09-07T16:32:25Z" depends-on-methods="com.ats.qa.testcases.OnlineMasterTest.OnlineTestMaster_getDelete" finished-at="2020-09-07T16:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnlineTestMaster_getHomePage -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.ats.qa.testcases.OnlineMasterTest@55f3ddb1]" name="Teardown" is-config="true" duration-ms="1015" started-at="2020-09-07T16:32:30Z" finished-at="2020-09-07T16:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.ats.qa.testcases.OnlineMasterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

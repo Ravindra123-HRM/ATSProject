@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.ats.qa.base.Listeners"/>
+  </listeners>
+  <test name="Validating DocumentMaster">
+    <classes>
+      <class name="com.ats.qa.testcases.DocumentMasterTest"/>
+    </classes>
+  </test> <!-- Validating DocumentMaster -->
+  <test name="Validating AssesmentQualifying">
+    <classes>
+      <class name="com.ats.qa.testcases.AssesmentQualifyingCriteriaTest"/>
+    </classes>
+  </test> <!-- Validating AssesmentQualifying -->
+  <test name="Validating DocumentMaster(failed)" parallel="tests">
+    <classes>
+      <class name="com.ats.qa.testcases.AssesmentQualifyingCriteriaTest">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.ats.qa.testcases.AssesmentQualifyingCriteriaTest -->
+      <class name="com.ats.qa.testcases.DocumentMasterTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="Documentmaster_clickOnDocumentcategory"/>
+          <include name="Documentmaster_clickOnDocumentMaster"/>
+          <include name="setup"/>
+          <include name="Documentmaster_clickOncategoryMaster"/>
+          <include name="Documentmaster_clickoncategory"/>
+          <include name="Documentmaster_clickonMaster"/>
+        </methods>
+      </class> <!-- com.ats.qa.testcases.DocumentMasterTest -->
+    </classes>
+  </test> <!-- Validating DocumentMaster(failed) -->
+</suite> <!-- Failed suite [Suite] -->

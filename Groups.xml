@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+ 
+<suite name="Suite" parallel="tests">
+<groups>
+  <run>
+  <exclude name="Regression"/>
+ 
+   
+  </run>
+  </groups>
+<listeners>
+<listener class-name="com.ats.qa.base.Listeners"/>
+</listeners>
+
+   <test  name="Validating DocumentMaster"> 
+    <classes>
+    <class name="com.ats.qa.testcases.DocumentMasterTest"/>
+     </classes>
+  </test>
+  
+       <test  name="Validating AssesmentQualifying">
+    <classes>
+  <class name="com.ats.qa.testcases.AssesmentQualifyingCriteriaTest"/>
+    </classes>
+  </test>
+    
+<!--       <test  name="Validating DesignationMaster"> -->
+<!--     <classes> -->
+<!--  <class name="com.ats.qa.testcases.DesignationMasterTest"/> -->
+<!--      </classes> -->
+<!--   </test> -->
+
+<!--   <test  name="Validating VendorMaster"> -->
+<!--     <classes> -->
+<!--    <class name="com.ats.qa.testcases.VendorMasterTest"/> -->
+    
+    
+<!--      </classes> -->
+<!--   </test> -->
+   
+<!--        <test  name="Validating ExcludeAssesmentfromselectionMatrix"> -->
+<!--     <classes> -->
+<!--       <class name="com.ats.qa.testcases.ExcludeAssesmentFromSelectionMatrixTest"/> -->
+<!--      </classes> -->
+<!--   </test> -->
+   
+<!-- <test  name="Validating DNDUploadModule"> -->
+<!--     <classes> -->
+<!--       <class name="com.ats.qa.testcases.DNDUploadModuleTest"/> -->
+<!--      </classes> -->
+<!--   </test> -->
+     
+<!--      <test  name="Validating ManageUser"> -->
+<!--     <classes> -->
+<!--   <class name="com.ats.qa.testcases.ManageUserTest"/> -->
+<!--      </classes> -->
+<!--   </test> -->
+     
+<!--       <test  name="Validating DepartmentMaster"> -->
+<!--     <classes> -->
+<!--   <class name="com.ats.qa.testcases.DepartmentMasterTest"/> -->
+<!--      </classes> -->
+<!--   </test> -->
+  
+<!--       <test  name="Validating ParameterMaster"> -->
+<!--     <classes> -->
+<!--        <class name="com.ats.qa.testcases.ParameterMasterTest"> -->
+<!--         <methods>  -->
+<!--   <exclude name="ParameterTest"/> -->
+<!--   </methods> -->
+<!--   </class> -->
+<!--      </classes> -->
+<!--   </test> -->
+     
+<!--     <test  name="Validating LocationMaster"> -->
+<!--     <classes> -->
+<!--         <class name="com.ats.qa.testcases.LocationMasterTest"/> -->
+<!--      </classes> -->
+<!--   </test> -->
+     
+   
+
+</suite> <!-- Suite -->

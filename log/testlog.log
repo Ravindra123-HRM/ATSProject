@@ -1,0 +1,1927 @@
+2020-09-02 09:58:44,097 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 09:58:44,318 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 09:58:44,558 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 09:58:47,203 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 09:58:49,918 - com.ats.qa.base.Log -INFO - click on master
+2020-09-02 09:58:49,934 - com.ats.qa.base.Log -INFO - Documentmaster_clickonMasterpassed
+2020-09-02 09:58:49,963 - com.ats.qa.base.Log -INFO - 
+2020-09-02 09:58:52,493 - com.ats.qa.base.Log -INFO - click on DocumentMaster
+2020-09-02 09:58:52,499 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentMasterpassed
+2020-09-02 09:58:52,506 - com.ats.qa.base.Log -INFO - 
+2020-09-02 09:58:52,640 - com.ats.qa.base.Log -INFO - Declaration is selected
+2020-09-02 09:58:52,809 - com.ats.qa.base.Log -INFO - document is inseted in to fields
+2020-09-02 09:58:52,890 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 09:58:55,004 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 09:58:57,090 - com.ats.qa.base.Log -INFO - Test123 is inserted sucessfully
+2020-09-02 09:58:57,383 - com.ats.qa.base.Log -INFO - Test is inserted sucessfully
+2020-09-02 09:58:57,540 - com.ats.qa.base.Log -INFO - click on update button
+2020-09-02 09:58:57,543 - com.ats.qa.base.Log -INFO - Documentmaster_clickoncategorypassed
+2020-09-02 09:58:57,572 - com.ats.qa.base.Log -INFO - 
+2020-09-02 09:58:59,641 - com.ats.qa.base.Log -INFO - click on category master
+2020-09-02 09:58:59,644 - com.ats.qa.base.Log -INFO - Documentmaster_clickOncategoryMasterpassed
+2020-09-02 09:58:59,672 - com.ats.qa.base.Log -INFO - 
+2020-09-02 09:59:00,421 - com.ats.qa.base.Log -INFO - caste certificate is inserted sucessfullyr
+2020-09-02 09:59:02,503 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 09:59:02,614 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 09:59:04,859 - com.ats.qa.base.Log -INFO - Non criminal certificate is inserted 
+2020-09-02 09:59:04,954 - com.ats.qa.base.Log -INFO - update button is selected
+2020-09-02 09:59:04,957 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentcategorypassed
+2020-09-02 09:59:06,083 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating DocumentMaster
+2020-09-02 10:04:58,548 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 10:04:58,749 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 10:04:58,908 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 10:05:00,283 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 10:05:02,792 - com.ats.qa.base.Log -INFO - click on master
+2020-09-02 10:05:02,812 - com.ats.qa.base.Log -INFO - Documentmaster_clickonMasterpassed
+2020-09-02 10:05:02,838 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:05:05,322 - com.ats.qa.base.Log -INFO - click on DocumentMaster
+2020-09-02 10:05:05,327 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentMasterpassed
+2020-09-02 10:05:05,345 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:05:05,460 - com.ats.qa.base.Log -INFO - Declaration is selected
+2020-09-02 10:05:05,594 - com.ats.qa.base.Log -INFO - document is inseted in to fields
+2020-09-02 10:05:05,691 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 10:05:07,796 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 10:05:09,885 - com.ats.qa.base.Log -INFO - Test123 is inserted sucessfully
+2020-09-02 10:05:10,069 - com.ats.qa.base.Log -INFO - Test is inserted sucessfully
+2020-09-02 10:05:10,158 - com.ats.qa.base.Log -INFO - click on update button
+2020-09-02 10:05:10,164 - com.ats.qa.base.Log -INFO - Documentmaster_clickoncategorypassed
+2020-09-02 10:05:10,179 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:05:12,274 - com.ats.qa.base.Log -INFO - click on category master
+2020-09-02 10:05:12,277 - com.ats.qa.base.Log -INFO - Documentmaster_clickOncategoryMasterpassed
+2020-09-02 10:05:12,281 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:05:13,018 - com.ats.qa.base.Log -INFO - caste certificate is inserted sucessfullyr
+2020-09-02 10:05:15,112 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 10:05:15,207 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 10:05:17,497 - com.ats.qa.base.Log -INFO - Non criminal certificate is inserted 
+2020-09-02 10:05:17,623 - com.ats.qa.base.Log -INFO - update button is selected
+2020-09-02 10:05:17,629 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentcategorypassed
+2020-09-02 10:05:18,761 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating DocumentMaster
+2020-09-02 10:05:19,406 - com.ats.qa.base.Log -INFO - ................On start  Testcases..... ....Validating AssesmentQualifying
+2020-09-02 10:05:56,755 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 10:05:56,969 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 10:05:57,136 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 10:05:58,405 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 10:06:00,916 - com.ats.qa.base.Log -INFO - click on master
+2020-09-02 10:06:00,936 - com.ats.qa.base.Log -INFO - Documentmaster_clickonMasterpassed
+2020-09-02 10:06:00,955 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:06:03,719 - com.ats.qa.base.Log -INFO - click on DocumentMaster
+2020-09-02 10:06:03,722 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentMasterpassed
+2020-09-02 10:06:03,729 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:06:03,934 - com.ats.qa.base.Log -INFO - Declaration is selected
+2020-09-02 10:06:04,107 - com.ats.qa.base.Log -INFO - document is inseted in to fields
+2020-09-02 10:06:04,269 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 10:06:06,406 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 10:06:08,501 - com.ats.qa.base.Log -INFO - Test123 is inserted sucessfully
+2020-09-02 10:06:08,648 - com.ats.qa.base.Log -INFO - Test is inserted sucessfully
+2020-09-02 10:06:08,734 - com.ats.qa.base.Log -INFO - click on update button
+2020-09-02 10:06:08,737 - com.ats.qa.base.Log -INFO - Documentmaster_clickoncategorypassed
+2020-09-02 10:06:08,749 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:06:10,818 - com.ats.qa.base.Log -INFO - click on category master
+2020-09-02 10:06:10,822 - com.ats.qa.base.Log -INFO - Documentmaster_clickOncategoryMasterpassed
+2020-09-02 10:06:10,832 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:06:11,452 - com.ats.qa.base.Log -INFO - caste certificate is inserted sucessfullyr
+2020-09-02 10:06:13,554 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 10:06:13,731 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 10:06:52,854 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 10:06:53,218 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 10:06:53,441 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 10:06:55,188 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 10:06:57,951 - com.ats.qa.base.Log -INFO - click on master
+2020-09-02 10:06:57,968 - com.ats.qa.base.Log -INFO - Documentmaster_clickonMasterpassed
+2020-09-02 10:06:57,999 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:07:00,730 - com.ats.qa.base.Log -INFO - click on DocumentMaster
+2020-09-02 10:07:00,733 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentMasterpassed
+2020-09-02 10:07:00,748 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:07:00,945 - com.ats.qa.base.Log -INFO - Declaration is selected
+2020-09-02 10:07:01,131 - com.ats.qa.base.Log -INFO - document is inseted in to fields
+2020-09-02 10:07:01,272 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 10:07:03,392 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 10:07:05,485 - com.ats.qa.base.Log -INFO - Test123 is inserted sucessfully
+2020-09-02 10:07:05,632 - com.ats.qa.base.Log -INFO - Test is inserted sucessfully
+2020-09-02 10:07:05,749 - com.ats.qa.base.Log -INFO - click on update button
+2020-09-02 10:07:05,753 - com.ats.qa.base.Log -INFO - Documentmaster_clickoncategorypassed
+2020-09-02 10:07:05,776 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:07:07,844 - com.ats.qa.base.Log -INFO - click on category master
+2020-09-02 10:07:07,847 - com.ats.qa.base.Log -INFO - Documentmaster_clickOncategoryMasterpassed
+2020-09-02 10:07:07,877 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:07:08,475 - com.ats.qa.base.Log -INFO - caste certificate is inserted sucessfullyr
+2020-09-02 10:07:10,630 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 10:07:10,733 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 10:07:12,993 - com.ats.qa.base.Log -INFO - Non criminal certificate is inserted 
+2020-09-02 10:07:13,089 - com.ats.qa.base.Log -INFO - update button is selected
+2020-09-02 10:07:13,092 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentcategorypassed
+2020-09-02 10:07:14,566 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating DocumentMaster
+2020-09-02 10:07:15,290 - com.ats.qa.base.Log -INFO - ................On start  Testcases..... ....Validating AssesmentQualifying
+2020-09-02 10:07:15,306 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating AssesmentQualifying
+2020-09-02 10:12:13,408 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 10:12:13,665 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 10:12:13,836 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 10:12:15,565 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 10:12:18,485 - com.ats.qa.base.Log -INFO - click on master
+2020-09-02 10:12:18,496 - com.ats.qa.base.Log -INFO - Documentmaster_clickonMasterpassed
+2020-09-02 10:12:18,507 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:12:21,453 - com.ats.qa.base.Log -INFO - click on DocumentMaster
+2020-09-02 10:12:21,456 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentMasterpassed
+2020-09-02 10:12:21,458 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:12:21,667 - com.ats.qa.base.Log -INFO - Declaration is selected
+2020-09-02 10:12:21,901 - com.ats.qa.base.Log -INFO - document is inseted in to fields
+2020-09-02 10:12:22,171 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-02 10:12:24,269 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-02 10:12:26,358 - com.ats.qa.base.Log -INFO - Test123 is inserted sucessfully
+2020-09-02 10:12:26,520 - com.ats.qa.base.Log -INFO - Test is inserted sucessfully
+2020-09-02 10:12:26,621 - com.ats.qa.base.Log -INFO - click on update button
+2020-09-02 10:12:26,623 - com.ats.qa.base.Log -INFO - Documentmaster_clickoncategorypassed
+2020-09-02 10:12:26,626 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:12:28,694 - com.ats.qa.base.Log -INFO - click on category master
+2020-09-02 10:12:28,697 - com.ats.qa.base.Log -INFO - Documentmaster_clickOncategoryMasterpassed
+2020-09-02 10:12:28,699 - com.ats.qa.base.Log -INFO - 
+2020-09-02 10:12:29,358 - com.ats.qa.base.Log -INFO - caste certificate is inserted sucessfullyr
+2020-09-02 10:58:33,165 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 10:58:33,384 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 10:58:33,533 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 10:58:35,645 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:04:06,981 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:04:07,197 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:04:07,822 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:04:09,439 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:04:12,794 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:04:14,931 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:04:15,884 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:04:18,009 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:04:20,094 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:04:20,265 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:04:20,412 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:07:40,557 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:07:40,792 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:07:40,952 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:07:42,396 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:07:45,455 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:07:47,570 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:07:48,405 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:07:50,539 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:07:52,617 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:07:52,790 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:07:52,906 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:17:01,012 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:17:01,210 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:17:01,372 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:17:03,227 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:17:06,174 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:17:08,277 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:17:09,291 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:17:11,424 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:17:13,508 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:17:13,691 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:17:13,824 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:18:55,286 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:18:55,480 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:18:55,634 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:18:57,129 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:19:00,322 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:19:02,434 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:19:03,261 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:19:05,423 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:19:07,538 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:19:07,720 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:19:07,855 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:21:59,557 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:21:59,789 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:21:59,947 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:22:01,546 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:22:04,755 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:22:06,885 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:22:07,831 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:22:09,960 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:22:12,040 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:22:12,224 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:22:12,358 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:23:58,467 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:23:58,670 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:23:58,837 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:24:00,424 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:24:03,345 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:24:05,455 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:24:06,333 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:24:08,459 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:24:10,540 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:24:10,726 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:24:10,871 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:25:11,574 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:25:11,757 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:25:11,895 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:25:13,135 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:25:16,017 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:25:18,151 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:25:20,082 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:25:22,212 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:25:24,292 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:25:24,478 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:25:24,618 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:27:00,447 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:27:00,753 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:27:00,969 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:27:02,510 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:27:05,424 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:27:07,534 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:27:08,661 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:27:10,785 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:27:12,865 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:27:13,041 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:30:04,414 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:30:04,624 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:30:04,777 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:30:06,305 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:30:09,410 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:30:11,545 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:30:12,522 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:30:14,653 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:30:16,736 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:30:16,912 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:30:17,054 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 11:53:55,977 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 11:53:56,210 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 11:53:56,386 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 11:54:00,499 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 11:54:04,834 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 11:54:06,953 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 11:54:08,348 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 11:54:10,469 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 11:54:12,547 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 11:54:12,724 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 11:54:12,855 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:01:14,027 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:01:14,200 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:01:14,347 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:01:15,578 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:01:18,460 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:01:20,579 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:01:21,390 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:01:23,515 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:01:25,612 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:01:25,789 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:01:25,928 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:04:12,181 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:04:12,368 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:04:12,519 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:04:14,099 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:04:17,274 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:04:19,386 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:04:20,204 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:04:22,324 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:04:24,399 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:04:24,572 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:04:24,709 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:07:16,866 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:07:17,448 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:07:17,630 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:07:19,188 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:07:22,331 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:07:24,520 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:07:25,864 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:07:27,985 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:07:30,065 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:07:30,272 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:07:30,412 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:17:07,876 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:17:08,207 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:17:08,464 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:17:10,344 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:17:13,639 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:17:15,818 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:17:17,425 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:17:19,600 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:17:21,742 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:17:21,967 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:17:22,180 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:19:35,997 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:19:36,260 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:19:36,440 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:19:38,577 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:19:41,857 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:19:44,008 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:19:45,928 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:19:48,095 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:19:50,218 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:19:50,484 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:19:50,681 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:21:33,930 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:21:34,366 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:21:34,601 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:21:36,647 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:21:40,254 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:21:42,439 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:21:44,128 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:21:46,308 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:21:48,408 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:21:48,643 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:21:48,844 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:23:19,801 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:23:20,109 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:23:20,441 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:23:22,442 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:23:25,663 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:23:27,818 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:23:29,348 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:23:31,529 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:23:33,679 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:23:33,925 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:24:56,787 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:24:57,099 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:24:57,369 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:24:59,257 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:25:02,728 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:25:04,958 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:25:06,804 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:25:08,966 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:25:11,087 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:25:11,359 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:26:04,120 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:26:04,365 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:26:04,584 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:26:06,878 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:26:10,413 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:26:12,670 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:26:15,064 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:26:17,321 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:26:19,427 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:26:19,668 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:30:13,563 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:30:13,847 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:30:14,087 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:30:16,320 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:30:20,256 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:30:22,703 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:30:24,816 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:30:26,982 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:30:29,183 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:30:29,743 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:30:29,951 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:39:01,801 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:39:02,004 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:39:02,154 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:39:04,072 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:39:07,161 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:39:09,285 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:39:10,192 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:39:12,320 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:39:14,400 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:39:14,567 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:39:14,710 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:41:28,478 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:41:28,692 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:41:28,882 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:41:30,466 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:41:33,341 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:41:35,448 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:41:36,402 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:41:38,602 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:41:40,680 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:41:40,857 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:41:41,007 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:42:42,847 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:42:43,066 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:42:43,224 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:42:44,466 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:42:47,531 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:42:49,697 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:42:50,589 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:42:52,720 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:42:54,796 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:42:54,977 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:42:55,128 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:43:50,656 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:43:50,839 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:43:50,972 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:43:52,684 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:43:55,844 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:43:57,966 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:43:58,805 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:44:00,925 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:44:03,006 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:44:03,183 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:44:03,324 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:45:01,858 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:45:02,056 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:45:02,190 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:45:03,547 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:45:06,397 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:45:08,512 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:45:09,359 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:45:11,491 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:45:13,589 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:45:13,766 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:45:13,900 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:46:01,993 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:46:02,501 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:46:02,773 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:46:04,221 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:46:07,063 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:46:09,207 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:46:10,015 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:46:12,143 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:46:14,238 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:46:14,411 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:46:14,557 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 12:56:31,199 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 12:56:31,438 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 12:56:31,667 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 12:56:33,646 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 12:56:36,508 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 12:56:38,620 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 12:56:39,582 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 12:56:41,712 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 12:56:43,792 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 12:56:43,977 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 12:56:44,106 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:02:24,638 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:02:24,855 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:02:25,019 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:02:26,342 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:02:29,555 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:02:31,671 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:02:32,574 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:02:34,701 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:02:36,780 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:02:36,954 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:02:37,076 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:06:55,506 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:06:55,768 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:06:55,940 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:06:57,559 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:07:00,674 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:07:02,790 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:07:03,718 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:07:05,848 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:07:07,982 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:07:08,228 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:07:08,465 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:09:22,703 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:09:23,299 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:09:23,478 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:09:25,006 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:09:28,155 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:09:30,329 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:09:31,326 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:09:33,447 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:09:35,533 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:09:35,720 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:09:35,869 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:10:09,766 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:10:09,943 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:10:10,081 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:10:11,352 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:10:14,294 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:10:16,407 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:10:17,312 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:10:19,435 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:10:21,518 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:10:21,696 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:10:21,840 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:12:14,819 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:12:15,068 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:12:15,288 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:12:16,872 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:12:19,690 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:12:21,800 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:12:22,663 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:12:24,789 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:12:26,885 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:12:27,056 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:12:27,214 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:13:29,519 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:13:29,843 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:13:30,063 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:13:31,928 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:13:34,966 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:13:37,112 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:13:38,110 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:13:40,245 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:13:42,326 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:13:42,506 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:13:42,652 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:27:44,449 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:27:44,682 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:27:44,848 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:27:46,501 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:27:49,527 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:27:51,637 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:27:52,541 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:27:54,665 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:27:56,746 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:27:56,924 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:27:57,061 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:29:13,103 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:29:13,392 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:29:13,576 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:29:15,211 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:29:18,152 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:29:20,400 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:29:21,388 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:29:23,522 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:29:25,606 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:29:25,796 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:29:25,948 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:32:10,574 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:32:10,835 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:32:11,023 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:32:12,614 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:32:15,538 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:32:17,687 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:32:18,583 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:32:20,710 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:32:22,815 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:32:23,000 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:32:23,137 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:33:47,064 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:33:47,264 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:33:47,391 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:33:48,705 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:33:51,597 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:33:53,748 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:33:54,660 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:33:56,793 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:33:58,874 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:33:59,061 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:33:59,208 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:35:18,185 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:35:18,447 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:35:18,637 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:35:20,299 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:35:23,480 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:35:25,607 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:35:26,446 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:35:28,575 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:35:30,656 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:35:30,843 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:35:30,992 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:37:02,128 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:37:02,361 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:37:02,529 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:37:04,112 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:37:06,994 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:37:09,121 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:39:13,422 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:39:13,678 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:39:13,870 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:39:15,403 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:39:18,302 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:39:20,448 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:41:04,371 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:41:04,608 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:41:04,814 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:41:06,352 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:41:09,536 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:41:11,650 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:43:25,477 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:43:25,674 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:43:25,828 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:43:27,310 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:43:30,435 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:43:32,551 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:44:43,078 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:44:43,346 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:44:43,519 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:44:45,410 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:44:48,665 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:44:50,786 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:44:51,771 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:44:53,912 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:44:55,995 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:44:56,178 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:44:56,320 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 13:58:45,006 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 13:58:45,204 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 13:58:45,354 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 13:58:46,665 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 13:58:49,765 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 13:58:51,869 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 13:58:52,858 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 13:58:54,984 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 13:58:57,067 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 13:58:57,270 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 13:58:57,404 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 14:10:39,927 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 14:10:40,104 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 14:10:40,259 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 14:10:41,649 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 14:10:44,693 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 14:10:46,802 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 14:12:35,367 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 14:12:35,609 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 14:12:35,775 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 14:12:37,051 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 14:12:40,123 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 14:12:42,236 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 14:12:43,190 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 14:12:45,317 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 14:12:47,401 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 14:12:47,602 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 14:12:47,739 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 14:16:01,297 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 14:16:01,698 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 14:16:01,919 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 14:16:03,903 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 14:17:52,449 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 14:17:52,621 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 14:17:52,750 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 14:17:53,997 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 14:17:56,850 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 14:17:58,965 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 14:18:04,207 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 14:18:06,374 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 14:18:08,455 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 14:18:08,628 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 14:18:08,774 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 14:21:15,995 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 14:21:16,224 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 14:21:16,417 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 14:21:17,992 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 14:21:21,152 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 14:21:23,280 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 14:21:28,525 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 14:21:30,665 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 14:21:32,747 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 14:21:32,939 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 14:21:33,080 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 14:25:24,863 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 14:25:25,073 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 14:25:25,211 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 14:25:26,584 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 14:25:29,467 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 14:25:31,602 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 14:25:32,650 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 14:25:34,780 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 14:25:36,868 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 14:25:37,054 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 14:25:37,180 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 14:25:41,342 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 14:25:41,565 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 14:25:41,753 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 15:14:47,652 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:14:47,974 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:14:48,319 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:14:50,363 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:14:53,391 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:14:55,505 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:14:56,586 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:14:58,717 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:15:00,816 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:15:01,056 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:15:01,211 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:15:05,368 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:15:05,568 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 15:15:05,732 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 15:15:06,119 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 15:15:08,314 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 15:15:10,500 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 15:18:56,305 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:18:56,567 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:18:56,755 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:18:58,459 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:19:01,466 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:19:03,674 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:19:04,644 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:19:06,774 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:19:08,855 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:19:09,087 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:19:09,242 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:19:11,414 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:21:33,431 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:21:33,653 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:21:33,825 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:21:35,370 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:21:38,383 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:21:40,499 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:21:41,475 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:21:43,640 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:21:45,720 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:21:45,925 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:21:46,119 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:21:48,277 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:23:49,155 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:23:49,383 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:23:49,527 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:23:51,300 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:23:54,259 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:23:56,385 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:23:57,432 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:23:59,561 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:24:01,642 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:24:01,829 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:24:01,995 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:24:04,137 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:29:35,478 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:29:35,676 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:29:35,808 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:29:37,425 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:29:40,673 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:29:42,821 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:29:44,198 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:29:46,322 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:29:48,404 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:29:48,573 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:29:48,721 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:29:50,866 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:38:17,524 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:38:17,828 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:38:18,199 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:38:20,665 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:38:24,305 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:38:26,462 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:38:27,632 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:38:29,756 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:38:31,835 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:38:32,020 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:38:32,168 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:38:34,356 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:38:34,678 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 15:38:34,895 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 15:38:35,061 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 15:44:10,663 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:44:10,883 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:44:11,072 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:44:12,648 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:44:15,847 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:44:17,972 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:44:18,961 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:44:21,088 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:44:23,169 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:44:23,349 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:44:23,482 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:44:25,696 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:44:26,005 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 15:44:26,224 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 15:44:26,418 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 15:46:41,448 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:46:41,659 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:46:41,820 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:46:43,102 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:46:46,391 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:46:48,494 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:46:49,422 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:46:51,549 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:46:53,630 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:46:53,799 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:46:53,947 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:46:56,086 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:46:56,392 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 15:46:56,631 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 15:46:56,803 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 15:52:12,860 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:52:13,060 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:52:13,208 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:52:14,467 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:52:17,344 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:52:19,463 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:52:20,288 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:52:22,421 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:52:24,525 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:52:24,714 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:52:24,848 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:52:27,027 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:52:27,433 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 15:52:27,751 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 15:52:27,980 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 15:52:30,123 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 15:52:34,385 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 15:52:36,567 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 15:52:38,728 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 15:57:51,202 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 15:57:51,377 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 15:57:51,519 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 15:57:53,532 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 15:57:56,613 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 15:57:58,768 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 15:58:00,823 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 15:58:02,947 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 15:58:05,026 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 15:58:05,215 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 15:58:05,397 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 15:58:07,563 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 15:58:07,845 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 15:58:08,053 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 15:58:08,203 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 15:58:10,329 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 15:58:14,543 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 15:58:16,729 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 15:58:16,908 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:01:49,844 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 16:01:50,039 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 16:01:50,218 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 16:01:51,956 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 16:01:54,984 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 16:01:57,167 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 16:01:58,283 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 16:02:00,418 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 16:02:02,501 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 16:02:02,676 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 16:02:02,795 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 16:02:04,972 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 16:02:05,269 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 16:02:05,497 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 16:02:05,666 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 16:02:07,791 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 16:02:12,014 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 16:02:14,233 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 16:02:14,435 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:04:00,266 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 16:04:00,464 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 16:04:00,618 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 16:04:01,923 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 16:04:04,773 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 16:04:06,893 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 16:04:07,712 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 16:04:09,834 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 16:04:11,931 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 16:04:12,106 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 16:04:12,251 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 16:04:14,416 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 16:04:14,688 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 16:04:14,911 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 16:04:15,085 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 16:04:17,233 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 16:04:21,461 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 16:04:23,638 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 16:04:23,812 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:04:27,951 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 16:05:07,329 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 16:05:07,562 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 16:05:07,708 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 16:05:09,155 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 16:05:12,185 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 16:05:14,408 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 16:05:15,171 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 16:05:17,291 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 16:05:19,374 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 16:05:19,553 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 16:05:19,689 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 16:05:21,879 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 16:05:22,167 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 16:05:22,370 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 16:05:22,571 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 16:05:24,703 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 16:05:28,909 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 16:05:31,134 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 16:05:31,301 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:05:35,404 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 16:28:37,569 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 16:28:37,791 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 16:28:38,379 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 16:28:39,995 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 16:28:43,127 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 16:28:45,276 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 16:28:46,809 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 16:28:48,937 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 16:28:51,018 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 16:28:51,202 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 16:28:51,387 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 16:28:53,630 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 16:28:53,937 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 16:28:54,155 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 16:28:54,301 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 16:28:56,436 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 16:29:00,723 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 16:29:02,909 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 16:29:03,085 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:29:07,195 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 16:32:09,926 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 16:32:10,623 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 16:32:10,863 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 16:32:12,539 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 16:32:15,845 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 16:32:18,016 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 16:32:19,091 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 16:32:21,222 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 16:32:23,299 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 16:32:23,490 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 16:32:23,610 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 16:32:25,831 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 16:32:26,156 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 16:32:26,369 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 16:32:26,519 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 16:32:28,637 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 16:32:32,899 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 16:32:35,082 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 16:32:35,243 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:32:39,344 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 16:35:27,381 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 16:35:27,589 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 16:35:27,741 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 16:35:28,980 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 16:35:31,865 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 16:35:34,022 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 16:35:34,844 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 16:35:36,973 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 16:35:39,067 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 16:35:39,239 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 16:35:39,374 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 16:35:41,576 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 16:35:41,868 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 16:35:42,106 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 16:35:42,254 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 16:35:44,392 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 16:35:48,622 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 16:35:50,824 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 16:35:50,986 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:35:55,127 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 16:36:58,959 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 16:36:59,232 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 16:36:59,436 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 16:37:00,765 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 16:37:03,653 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 16:37:05,804 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 16:37:06,745 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 16:37:08,873 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 16:37:10,957 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 16:37:11,146 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 16:37:11,291 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 16:37:13,489 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 16:37:13,779 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 16:37:13,990 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 16:37:14,155 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 16:37:16,281 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 16:37:20,518 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 16:37:22,727 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 16:37:22,889 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 16:37:27,018 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 17:12:02,596 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 17:12:02,829 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 17:12:02,987 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 17:12:05,506 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 17:12:09,140 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 17:12:11,432 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 17:12:12,967 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 17:12:15,167 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 17:12:17,249 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 17:12:17,418 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 17:12:17,568 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 17:12:19,756 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 17:12:20,075 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 17:12:20,262 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 17:12:20,430 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 17:12:22,569 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 17:12:26,769 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 17:12:29,016 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 17:12:29,244 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 17:12:33,354 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 17:13:55,955 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 17:13:56,160 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 17:13:56,307 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 17:13:57,659 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 17:14:00,706 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 17:14:02,834 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 17:14:03,733 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 17:14:05,863 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 17:14:07,965 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 17:14:08,149 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 17:14:08,294 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 17:14:10,479 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 17:14:10,847 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 17:14:11,110 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 17:14:11,293 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 17:14:13,458 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 17:14:17,678 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 17:14:20,130 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 17:14:20,490 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 17:14:24,583 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 17:15:39,814 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-02 17:15:40,006 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-02 17:15:40,162 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-02 17:15:41,733 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-02 17:15:44,769 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-02 17:15:46,929 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-02 17:15:48,149 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-02 17:15:50,274 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-02 17:15:52,356 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-02 17:15:52,549 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-02 17:15:52,701 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-02 17:15:54,910 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-02 17:15:55,199 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-02 17:15:55,430 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-02 17:15:55,577 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-02 17:15:57,732 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-02 17:16:02,006 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-02 17:16:04,184 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-02 17:16:04,391 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-02 17:16:08,507 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-02 17:16:13,643 - com.ats.qa.base.Log -INFO - Duplicate drop down is selected
+2020-09-02 17:16:16,956 - com.ats.qa.base.Log -INFO - Registeration status drop down is selected
+2020-09-02 17:16:19,809 - com.ats.qa.base.Log -INFO - Save button is click
+2020-09-03 09:45:49,585 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 09:45:49,915 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 09:45:50,345 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 09:45:53,881 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 09:45:56,866 - com.ats.qa.base.Log -INFO - usermangement module is click
+2020-09-03 09:45:59,048 - com.ats.qa.base.Log -INFO - New WalkinId Module is click
+2020-09-03 09:46:01,916 - com.ats.qa.base.Log -INFO - Location is selected
+2020-09-03 09:46:04,049 - com.ats.qa.base.Log -INFO - Gender is selected
+2020-09-03 09:46:06,128 - com.ats.qa.base.Log -INFO - Title is selected
+2020-09-03 09:46:06,313 - com.ats.qa.base.Log -INFO - FirstName value is inserted
+2020-09-03 09:46:06,439 - com.ats.qa.base.Log -INFO - LastName value is inserted
+2020-09-03 09:46:08,657 - com.ats.qa.base.Log -INFO - calender is click
+2020-09-03 09:46:08,936 - com.ats.qa.base.Log -INFO - Date is selected
+2020-09-03 09:46:09,204 - com.ats.qa.base.Log -INFO - Mobile No is selected
+2020-09-03 09:46:09,375 - com.ats.qa.base.Log -INFO - sourcecategory is selected
+2020-09-03 09:46:11,496 - com.ats.qa.base.Log -INFO - sourcedetail is selected
+2020-09-03 09:46:15,709 - com.ats.qa.base.Log -INFO - PAN_Number is selected
+2020-09-03 09:46:17,892 - com.ats.qa.base.Log -INFO - AardharCard_Number is selected
+2020-09-03 09:46:18,067 - com.ats.qa.base.Log -INFO - Impact source is selected
+2020-09-03 09:46:22,166 - com.ats.qa.base.Log -INFO - Click on submit button
+2020-09-03 10:01:25,559 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:01:25,965 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 10:01:26,637 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 10:01:26,904 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 10:01:28,478 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 10:01:28,531 - com.ats.qa.base.Log -INFO - Failure  because of ....org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'SPGRASD11', ip: '172.27.85.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\RCHAVA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57104}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f58d1ba3f10ed27746cb829fa441642c
+*** Element info: {Using=xpath, value=.//option[normalize-space(.) = "JOINT"]}
+2020-09-03 10:01:29,061 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getAssesmenttype()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,067 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getcostcenter()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,074 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getdepartment()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,084 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getFrom()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,092 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getTo()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,102 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getResult()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,110 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getSave()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,119 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getedit()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,121 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getUpdate()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,128 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getDelete()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:29,132 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method AssesmentQualifyingCriteriaTest.Assesmentqualifyingcriteria_getHomePage()[pri:0, instance:com.ats.qa.testcases.AssesmentQualifyingCriteriaTest@479d31f3] depends on not successfully finished methods
+2020-09-03 10:01:30,244 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating AssesmentQualifying
+2020-09-03 10:01:30,483 - com.ats.qa.base.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'SPGRASD11', ip: '172.27.85.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: driver.version: RemoteWebDriver
+2020-09-03 10:01:31,013 - com.ats.qa.base.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'SPGRASD11', ip: '172.27.85.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: driver.version: RemoteWebDriver
+2020-09-03 10:01:31,032 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating DocumentMaster
+2020-09-03 10:04:02,073 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 10:04:02,887 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 10:04:03,088 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 10:04:04,894 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 10:04:08,045 - com.ats.qa.base.Log -INFO - click on master
+2020-09-03 10:04:08,057 - com.ats.qa.base.Log -INFO - Documentmaster_clickonMasterpassed
+2020-09-03 10:04:08,062 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:04:10,694 - com.ats.qa.base.Log -INFO - click on DocumentMaster
+2020-09-03 10:04:10,702 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentMasterpassed
+2020-09-03 10:04:10,706 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:04:10,894 - com.ats.qa.base.Log -INFO - Declaration is selected
+2020-09-03 10:04:11,037 - com.ats.qa.base.Log -INFO - document is inseted in to fields
+2020-09-03 10:04:11,194 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-03 10:04:45,479 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:04:45,875 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 10:04:45,906 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 10:04:46,172 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 10:04:46,343 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 10:04:46,492 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 10:04:46,567 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 10:04:46,819 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 10:04:46,979 - com.ats.qa.base.Log -INFO - Failure  because of ....org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'SPGRASD11', ip: '172.27.85.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\RCHAVA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57388}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eb9866be6bf6fe0ae3d08f29b6524d5b
+2020-09-03 10:04:47,632 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method DocumentMasterTest.Documentmaster_clickOnDocumentMaster()[pri:0, instance:com.ats.qa.testcases.DocumentMasterTest@35ef1869] depends on not successfully finished methods
+2020-09-03 10:04:47,639 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method DocumentMasterTest.Documentmaster_clickoncategory()[pri:0, instance:com.ats.qa.testcases.DocumentMasterTest@35ef1869] depends on not successfully finished methods
+2020-09-03 10:04:47,643 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method DocumentMasterTest.Documentmaster_clickOncategoryMaster()[pri:0, instance:com.ats.qa.testcases.DocumentMasterTest@35ef1869] depends on not successfully finished methods
+2020-09-03 10:04:47,646 - com.ats.qa.base.Log -INFO - Skipped because of ....java.lang.Throwable: Method DocumentMasterTest.Documentmaster_clickOnDocumentcategory()[pri:0, instance:com.ats.qa.testcases.DocumentMasterTest@35ef1869] depends on not successfully finished methods
+2020-09-03 10:04:49,406 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating DocumentMaster
+2020-09-03 10:04:51,052 - com.ats.qa.base.Log -INFO - Failure  because of ....org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:27232
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'SPGRASD11', ip: '172.27.85.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: driver.version: RemoteWebDriver
+2020-09-03 10:04:51,059 - com.ats.qa.base.Log -INFO - Failure  because of ....org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'SPGRASD11', ip: '172.27.85.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: driver.version: RemoteWebDriver
+2020-09-03 10:04:51,077 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating AssesmentQualifying
+2020-09-03 10:06:17,502 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 10:06:17,763 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 10:06:17,930 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 10:06:19,345 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 10:06:22,113 - com.ats.qa.base.Log -INFO - click on master
+2020-09-03 10:06:22,135 - com.ats.qa.base.Log -INFO - Documentmaster_clickonMasterpassed
+2020-09-03 10:06:22,144 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:06:24,814 - com.ats.qa.base.Log -INFO - click on DocumentMaster
+2020-09-03 10:06:24,816 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentMasterpassed
+2020-09-03 10:06:24,819 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:06:24,974 - com.ats.qa.base.Log -INFO - Declaration is selected
+2020-09-03 10:06:25,131 - com.ats.qa.base.Log -INFO - document is inseted in to fields
+2020-09-03 10:06:25,261 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-03 10:06:27,363 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-03 10:06:29,480 - com.ats.qa.base.Log -INFO - Test123 is inserted sucessfully
+2020-09-03 10:06:29,647 - com.ats.qa.base.Log -INFO - Test is inserted sucessfully
+2020-09-03 10:06:29,757 - com.ats.qa.base.Log -INFO - click on update button
+2020-09-03 10:06:29,760 - com.ats.qa.base.Log -INFO - Documentmaster_clickoncategorypassed
+2020-09-03 10:06:29,763 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:06:31,836 - com.ats.qa.base.Log -INFO - click on category master
+2020-09-03 10:06:31,838 - com.ats.qa.base.Log -INFO - Documentmaster_clickOncategoryMasterpassed
+2020-09-03 10:06:31,841 - com.ats.qa.base.Log -INFO - 
+2020-09-03 10:06:32,489 - com.ats.qa.base.Log -INFO - caste certificate is inserted sucessfullyr
+2020-09-03 10:06:34,645 - com.ats.qa.base.Log -INFO - click on save button
+2020-09-03 10:06:34,743 - com.ats.qa.base.Log -INFO - click on edit button
+2020-09-03 10:06:36,987 - com.ats.qa.base.Log -INFO - Non criminal certificate is inserted 
+2020-09-03 10:06:37,083 - com.ats.qa.base.Log -INFO - update button is selected
+2020-09-03 10:06:37,085 - com.ats.qa.base.Log -INFO - Documentmaster_clickOnDocumentcategorypassed
+2020-09-03 10:06:38,229 - com.ats.qa.base.Log -INFO - ................On Finish  Testcases..... ....Validating DocumentMaster
+2020-09-03 10:06:38,812 - com.ats.qa.base.Log -INFO - ................On start  Testcases..... ....Validating AssesmentQualifying
+2020-09-03 12:23:42,263 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 12:23:42,484 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 12:23:42,617 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 12:23:44,514 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 12:23:47,201 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 12:23:47,905 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 12:23:49,973 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 12:30:23,385 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 12:30:23,642 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 12:30:23,801 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 12:30:25,241 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 12:30:27,934 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 12:30:28,692 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 12:30:30,766 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 12:30:34,962 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 12:30:37,086 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 12:30:39,172 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 12:30:41,360 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:30:43,410 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:30:45,589 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 12:31:52,312 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 12:31:52,606 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 12:31:52,805 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 12:31:54,987 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 12:31:57,829 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 12:31:58,582 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 12:32:00,765 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 12:32:05,045 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 12:32:07,171 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 12:32:09,261 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 12:32:11,333 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:32:13,383 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:32:15,588 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 12:57:24,007 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 12:57:24,239 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 12:57:24,403 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 12:57:25,738 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 12:57:28,494 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 12:57:29,450 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 12:57:31,615 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 12:57:35,842 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 12:57:37,958 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 12:57:40,076 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 12:57:42,260 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:57:48,393 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:57:50,589 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 12:58:34,274 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 12:58:34,485 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 12:58:34,631 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 12:58:35,825 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 12:58:38,305 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 12:58:38,879 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 12:58:40,967 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 12:58:45,164 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 12:58:47,277 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 12:58:49,368 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 12:58:51,452 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:58:53,518 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 12:58:55,716 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:00:15,324 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:00:15,506 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:00:15,685 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:00:17,070 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:00:19,773 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:00:20,441 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:00:22,509 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:00:26,709 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:00:28,825 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:00:30,913 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:00:32,989 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:00:35,082 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:00:37,258 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:00:41,369 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:21:49,841 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:21:50,086 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:21:50,249 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:21:51,725 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:21:54,285 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:21:54,900 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:21:56,977 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:22:01,187 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:22:03,303 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:22:05,430 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:22:07,547 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:22:09,630 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:22:11,840 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:22:15,992 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:23:42,775 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:23:42,960 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:23:43,093 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:23:44,358 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:23:46,941 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:23:47,516 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:23:49,618 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:23:53,813 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:23:55,927 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:23:58,044 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:24:00,196 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:24:02,280 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:24:04,494 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:24:09,050 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:26:55,053 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:26:55,278 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:26:55,445 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:26:56,944 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:26:59,446 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:27:00,009 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:27:02,078 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:27:06,304 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:27:08,457 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:27:10,639 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:27:12,685 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:27:14,775 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:27:16,945 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:27:21,105 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:29:16,805 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:29:16,987 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:29:17,116 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:29:18,760 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:29:21,413 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:29:22,163 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:29:24,277 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:29:28,474 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:29:30,606 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:29:32,775 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:29:34,821 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:29:36,885 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:29:39,103 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:29:43,770 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:31:18,176 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:31:18,366 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:31:18,520 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:31:20,046 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:31:22,754 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:31:23,390 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:31:25,459 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:31:29,718 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:31:31,977 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:31:34,216 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:31:36,275 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:31:38,351 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:31:40,563 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:31:45,412 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:34:46,496 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:34:46,709 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:34:46,871 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:34:48,124 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:34:50,688 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:34:51,282 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:34:53,353 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:34:57,571 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:34:59,722 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:35:01,911 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:35:03,957 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:35:06,028 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:35:08,210 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:35:12,853 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:41:34,940 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:41:35,145 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:41:35,298 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:41:36,812 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:41:39,552 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:41:40,048 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:41:42,145 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:41:46,337 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:41:48,452 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:41:50,653 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:41:52,697 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:41:54,763 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:41:56,857 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:42:01,581 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:44:03,118 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:44:03,336 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:44:03,535 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:44:05,031 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:44:07,578 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:44:08,170 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:44:10,237 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:44:14,428 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:44:16,573 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:44:18,744 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:44:20,793 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:44:22,881 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:44:24,994 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:44:29,645 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:45:24,083 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:45:24,278 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:45:24,449 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:45:26,058 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:45:28,757 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:45:29,594 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:45:31,666 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:45:35,867 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:45:37,984 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:45:40,165 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:45:42,211 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:45:44,276 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:45:46,384 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:45:50,949 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:45:55,401 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 13:45:57,531 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:48:01,926 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:48:02,242 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:48:02,522 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:48:04,127 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:48:06,869 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:48:07,700 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:48:09,774 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:48:13,979 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:48:16,110 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:48:18,297 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:48:20,342 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:48:22,408 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:48:24,536 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:48:29,143 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:48:33,646 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 13:48:37,861 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:51:47,655 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 13:51:47,898 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 13:51:48,081 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 13:51:49,715 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 13:51:52,226 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 13:51:52,824 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 13:51:54,895 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 13:51:59,100 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 13:52:01,220 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 13:52:03,417 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 13:52:05,458 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:52:07,555 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 13:52:09,678 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:52:14,348 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 13:52:18,938 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 13:52:23,209 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 13:52:27,945 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 14:00:43,838 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 14:00:44,069 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 14:00:44,316 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 14:00:46,231 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 14:00:48,806 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 14:00:49,325 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 14:00:51,452 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 14:00:55,657 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 14:00:57,776 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 14:00:59,947 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 14:01:01,992 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 14:01:04,083 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 14:01:06,198 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 14:01:10,821 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 14:02:50,633 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 14:02:50,791 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 14:02:50,926 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 14:02:52,362 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 14:02:55,045 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 14:02:55,896 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 14:02:58,004 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 14:03:02,245 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 14:03:04,358 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 14:03:06,541 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 14:03:08,585 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 14:03:10,651 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 14:03:12,767 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 14:03:17,354 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 14:03:21,866 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 14:05:34,054 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 14:05:34,292 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 14:05:34,513 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 14:05:36,038 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 14:05:38,955 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 14:05:39,618 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 14:05:41,683 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 14:05:45,873 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 14:05:47,988 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 14:05:50,165 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 14:05:52,211 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 14:05:54,295 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 14:05:56,413 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 14:06:01,111 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 14:06:05,700 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 14:06:09,996 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 14:06:14,758 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 14:58:00,770 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 14:58:00,967 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 14:58:01,118 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 14:58:02,702 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 14:58:05,353 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 14:58:05,949 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 14:58:08,054 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 14:58:12,254 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 14:58:14,369 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 14:58:16,587 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 14:58:18,630 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 14:58:20,697 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 14:58:22,812 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 14:58:27,512 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 14:58:32,050 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 14:58:36,326 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 14:58:40,998 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 15:02:46,695 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:02:46,886 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:02:47,032 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:02:48,341 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:02:50,825 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:02:51,358 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:02:53,437 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:02:57,650 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:02:59,770 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:03:01,958 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:03:03,999 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:03:06,065 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:03:08,177 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:03:12,725 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:04:16,951 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:04:17,185 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:04:17,358 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:04:22,189 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:04:24,990 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:04:25,868 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:04:27,939 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:04:32,143 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:04:34,262 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:04:36,436 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:04:38,480 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:04:40,562 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:04:42,666 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:04:46,772 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:05:45,441 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:05:45,692 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:05:45,857 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:05:47,349 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:05:49,878 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:05:50,412 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:05:52,486 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:05:56,731 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:05:58,847 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:06:01,023 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:06:03,066 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:06:05,174 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:06:07,283 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:06:12,539 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:06:17,018 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 15:06:21,267 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:06:26,019 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 15:08:10,320 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:08:10,745 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:08:10,963 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:08:12,592 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:08:15,247 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:08:15,984 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:08:18,093 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:08:22,293 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:08:24,405 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:08:26,594 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:08:28,638 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:08:30,705 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:08:32,814 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:08:37,524 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:08:42,051 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 15:08:46,322 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:08:50,970 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 15:10:26,538 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:10:26,830 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:10:27,022 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:10:28,231 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:10:30,740 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:10:31,313 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:10:33,391 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:10:37,595 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:10:39,710 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:10:41,893 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:10:43,938 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:10:46,032 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:10:48,139 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:10:52,875 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:10:57,533 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 15:11:01,924 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:11:06,539 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 15:11:08,670 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-03 15:11:10,687 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-03 15:11:12,700 - com.ats.qa.base.Log -INFO - OK  is selected
+2020-09-03 15:11:16,249 - com.ats.qa.base.Log -INFO - Home button is selected
+2020-09-03 15:11:56,368 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:11:56,597 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:11:56,757 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:11:58,103 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:12:00,831 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:12:01,371 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:12:03,513 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:12:07,727 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:12:09,857 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:12:12,034 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:12:14,074 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:12:16,163 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:12:18,272 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:12:22,850 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:12:27,335 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 15:12:31,539 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:12:36,171 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 15:14:03,253 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:14:03,598 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:14:03,927 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:14:05,790 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:14:08,460 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:14:09,132 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:14:11,230 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:14:15,419 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:14:17,707 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:14:19,885 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:14:21,939 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:14:24,012 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:14:26,121 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:14:30,730 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:14:35,268 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 15:14:39,491 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:14:44,049 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 15:16:58,663 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 15:16:58,867 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 15:16:59,007 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 15:17:00,474 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 15:17:02,973 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 15:17:03,487 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 15:17:05,572 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 15:17:09,789 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-03 15:17:11,914 - com.ats.qa.base.Log -INFO - Location drop down is selected
+2020-09-03 15:17:14,080 - com.ats.qa.base.Log -INFO - Satrt time is entered
+2020-09-03 15:17:16,128 - com.ats.qa.base.Log -INFO - EndTime is entered
+2020-09-03 15:17:18,208 - com.ats.qa.base.Log -INFO - Notification Type is click
+2020-09-03 15:17:20,316 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:17:24,913 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 15:17:29,721 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 15:17:33,947 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 15:17:38,454 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 16:17:53,500 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 16:17:53,883 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 16:17:54,266 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 16:17:56,053 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 16:18:00,400 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 16:18:01,388 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 16:18:03,542 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 16:18:05,632 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 16:18:07,886 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 16:18:09,969 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 16:39:59,545 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 16:39:59,806 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 16:40:00,073 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 16:40:01,950 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 16:40:04,660 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 16:40:05,460 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 16:40:07,577 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 16:40:09,681 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 16:40:11,750 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 16:40:13,860 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 16:45:54,603 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 16:45:54,782 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 16:45:54,925 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 16:45:56,338 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 16:45:58,864 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 16:45:59,423 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 16:46:01,546 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 16:46:03,640 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 16:46:05,710 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 16:46:09,893 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 16:46:13,972 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 16:46:16,048 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 16:46:20,141 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 16:51:22,497 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 16:51:22,798 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 16:51:23,010 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 16:51:24,531 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 16:51:27,137 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 16:51:27,726 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 16:51:29,865 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 16:51:31,962 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 16:51:34,032 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 16:51:38,147 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 16:51:42,230 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 16:51:44,308 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 16:51:48,450 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 17:27:30,634 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:27:31,014 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:27:31,260 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:27:33,728 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:27:36,443 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:27:37,045 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:27:39,192 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:27:41,289 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 17:28:53,599 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:28:53,927 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:28:54,095 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:28:55,844 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:28:58,594 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:28:59,209 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:30:39,636 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:30:39,877 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:30:40,057 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:30:41,589 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:30:44,749 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:30:45,778 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:30:47,927 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:32:04,190 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:32:04,413 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:32:04,588 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:32:06,078 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:32:09,411 - com.ats.qa.base.Log -INFO - Assesment criteria  is selected
+2020-09-03 17:32:09,785 - com.ats.qa.base.Log -INFO - Assesment type drop down is selected
+2020-09-03 17:32:11,971 - com.ats.qa.base.Log -INFO - Joint cost center is selected
+2020-09-03 17:34:23,643 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:34:23,860 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:34:24,001 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:34:25,296 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:34:27,848 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:34:28,372 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:34:30,482 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:34:32,591 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 17:36:56,335 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:36:56,555 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:36:56,721 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:36:58,035 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:37:01,139 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:37:01,891 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:37:04,016 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:37:06,115 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 17:40:16,947 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:40:17,164 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:40:17,351 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:40:29,138 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:40:31,762 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:40:32,522 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:40:34,659 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:40:36,760 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 17:40:38,834 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 17:40:42,975 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 17:40:47,069 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 17:40:49,154 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 17:40:53,244 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 17:46:44,535 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:46:44,857 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:46:45,523 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:46:51,488 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:46:54,066 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:46:54,777 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:46:56,895 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:46:59,080 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 17:47:01,174 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 17:47:05,307 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 17:47:09,420 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 17:47:11,496 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 17:47:15,589 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 17:55:24,366 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:55:24,572 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:55:24,775 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:55:32,902 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:55:35,403 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:55:36,187 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:55:38,302 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:55:40,408 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 17:55:42,482 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 17:55:46,606 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 17:55:50,702 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 17:55:52,847 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 17:55:56,946 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 17:59:41,042 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 17:59:41,232 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 17:59:41,413 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 17:59:51,529 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 17:59:54,249 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 17:59:54,824 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 17:59:56,950 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 17:59:59,046 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 18:00:01,180 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 18:00:05,347 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 18:00:09,542 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 18:00:11,906 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 18:00:16,048 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 18:00:18,170 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-03 18:00:20,187 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-03 18:02:48,285 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 18:02:48,501 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 18:02:48,649 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 18:02:55,313 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 18:02:57,846 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 18:02:58,488 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-03 18:03:00,613 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-03 18:03:02,729 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-03 18:03:04,807 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-03 18:03:08,900 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-03 18:03:13,014 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-03 18:03:15,191 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-03 18:03:19,294 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-03 18:03:21,398 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-03 18:03:23,411 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-03 18:03:23,412 - com.ats.qa.base.Log -INFO - OK  is selected
+2020-09-03 18:03:34,404 - com.ats.qa.base.Log -INFO - Home button is selected
+2020-09-03 18:06:32,567 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-03 18:06:32,786 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-03 18:06:32,950 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-03 18:06:56,346 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-03 18:06:59,520 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-03 18:07:00,595 - com.ats.qa.base.Log -INFO - Communication Master is selected
+2020-09-03 18:07:02,663 - com.ats.qa.base.Log -INFO - Advisor radio button is selected
+2020-09-03 18:07:06,869 - com.ats.qa.base.Log -INFO - Recipent drop down is selected
+2020-09-04 10:20:07,456 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 10:20:07,667 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 10:20:07,828 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 10:20:11,973 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 10:20:14,746 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 10:20:15,129 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 10:25:58,884 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 10:25:59,071 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 10:25:59,216 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 10:26:02,278 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 10:26:04,917 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 10:26:05,492 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 10:26:07,663 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 10:26:09,761 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 10:26:11,855 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-04 10:26:15,988 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 10:29:52,120 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 10:29:52,325 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 10:29:52,487 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 10:29:55,440 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 10:29:58,089 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 10:29:58,824 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 10:30:00,946 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 10:30:03,070 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 10:30:05,143 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-04 10:30:09,293 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 11:08:00,872 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 11:08:01,186 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 11:08:01,445 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 11:08:04,980 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 11:08:07,529 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 11:08:08,090 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 11:08:10,243 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 11:08:12,338 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 11:08:14,366 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-04 11:08:18,489 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 11:09:43,131 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 11:09:43,314 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 11:09:43,468 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 11:09:46,964 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 11:09:49,556 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 11:09:50,154 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 11:09:52,314 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 11:09:54,407 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 11:09:56,438 - com.ats.qa.base.Log -INFO - TestName is click
+2020-09-04 11:10:00,642 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 11:17:48,971 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 11:17:49,187 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 11:17:49,353 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 11:17:52,347 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 11:17:55,010 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 11:17:55,782 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 11:17:57,906 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 11:18:00,000 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 11:18:06,177 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 11:27:27,109 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 11:27:27,343 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 11:27:27,491 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 11:27:31,412 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 11:27:34,047 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 11:27:35,008 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 11:27:37,137 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 11:27:39,240 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 12:04:36,946 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 12:04:37,141 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 12:04:37,314 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 12:04:43,470 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 12:04:46,380 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 12:04:47,163 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 12:04:49,291 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 12:04:51,404 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 12:04:57,629 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 12:08:27,774 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 12:08:27,979 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 12:08:28,127 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 12:08:31,526 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 12:08:34,164 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 12:08:34,882 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 12:08:37,002 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 12:08:39,100 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 12:08:45,254 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 12:10:54,095 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 12:10:54,253 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 12:10:54,397 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 12:10:57,976 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 12:11:00,563 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 12:11:01,307 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 12:11:03,433 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 12:11:05,530 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 12:11:11,688 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 12:44:19,579 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 12:44:19,896 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 12:44:20,090 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 12:44:25,231 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 12:44:28,013 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 12:44:28,682 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 12:44:30,803 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 12:44:32,895 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 12:44:39,061 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 12:44:43,177 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-04 12:44:45,324 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-04 12:44:49,422 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-04 12:46:42,538 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 12:46:42,718 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 12:46:42,962 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 12:46:46,251 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 12:46:49,735 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 12:46:50,466 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 12:46:52,582 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 12:46:54,673 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 12:47:00,881 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 12:47:04,985 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-04 12:47:07,127 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-04 12:47:11,223 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-04 12:47:13,318 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-04 12:47:15,328 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-04 12:47:15,329 - com.ats.qa.base.Log -INFO - OK  is selected
+2020-09-04 12:47:19,663 - com.ats.qa.base.Log -INFO - Home button is selected
+2020-09-04 12:47:58,476 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-04 12:47:58,627 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-04 12:47:58,775 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-04 12:48:02,627 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-04 12:48:05,190 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-04 12:48:06,076 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-04 12:48:08,209 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-04 12:48:10,301 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-04 12:48:16,472 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-04 12:48:20,572 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-04 12:48:22,728 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-04 12:48:26,829 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-04 12:48:28,935 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-04 12:48:30,951 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-04 12:48:30,952 - com.ats.qa.base.Log -INFO - OK  is selected
+2020-09-04 12:48:34,685 - com.ats.qa.base.Log -INFO - Home button is selected
+2020-09-07 16:17:28,887 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-07 16:17:29,055 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-07 16:17:29,203 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-07 16:17:34,832 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-07 16:17:37,757 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-07 16:17:38,856 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-07 16:17:40,974 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-07 16:17:43,119 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-07 16:17:49,295 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-07 16:17:53,395 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-07 16:17:55,544 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-07 16:17:59,660 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-07 16:18:01,748 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-07 16:18:03,757 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-07 16:18:03,758 - com.ats.qa.base.Log -INFO - OK  is selected
+2020-09-07 16:18:08,455 - com.ats.qa.base.Log -INFO - Home button is selected
+2020-09-07 16:23:59,914 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-07 16:24:00,157 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-07 16:24:00,325 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-07 16:24:04,014 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-07 16:24:06,512 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-07 16:24:07,283 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-07 16:24:09,398 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-07 16:24:11,493 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-07 16:24:17,671 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-07 16:24:21,818 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-07 16:24:23,967 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-07 16:24:28,076 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-07 16:24:30,162 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-07 16:24:32,173 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-07 16:24:32,174 - com.ats.qa.base.Log -INFO - OK  is selected
+2020-09-07 16:24:37,305 - com.ats.qa.base.Log -INFO - Home button is selected
+2020-09-07 16:31:51,711 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-07 16:31:51,942 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-07 16:31:52,144 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-07 16:31:57,087 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-07 16:31:59,586 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-07 16:32:00,291 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-07 16:32:02,461 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-07 16:32:04,588 - com.ats.qa.base.Log -INFO - Department drop down is selected
+2020-09-07 16:32:10,751 - com.ats.qa.base.Log -INFO - save button is click
+2020-09-07 16:32:14,843 - com.ats.qa.base.Log -INFO - click on Edit button sucessfully
+2020-09-07 16:32:17,022 - com.ats.qa.base.Log -INFO - Template is entered
+2020-09-07 16:32:21,125 - com.ats.qa.base.Log -INFO - Update button is selected
+2020-09-07 16:32:23,228 - com.ats.qa.base.Log -INFO - Delete button is selected
+2020-09-07 16:32:25,248 - com.ats.qa.base.Log -INFO - Yes is selected
+2020-09-07 16:32:25,248 - com.ats.qa.base.Log -INFO - OK  is selected
+2020-09-07 16:32:30,107 - com.ats.qa.base.Log -INFO - Home button is selected
+2020-09-07 16:57:04,113 - com.ats.qa.base.Log -INFO - JOINT cost center drop down is click
+2020-09-07 16:57:04,406 - com.ats.qa.base.Log -INFO - User name is entered
+2020-09-07 16:57:04,623 - com.ats.qa.base.Log -INFO - Password is entered
+2020-09-07 16:57:10,335 - com.ats.qa.base.Log -INFO - Login button is click
+2020-09-07 16:57:13,114 - com.ats.qa.base.Log -INFO - Master module  is selected
+2020-09-07 16:57:13,893 - com.ats.qa.base.Log -INFO - Online Master is selected
+2020-09-07 16:57:16,013 - com.ats.qa.base.Log -INFO - CostCenter is selected
+2020-09-07 16:57:18,107 - com.ats.qa.base.Log -INFO - Department drop down is selected
